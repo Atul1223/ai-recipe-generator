@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Recipe Generator</string>
+    <string name="action_go">Go</string>
+    <string name="baking_title">Cooking with Gemini</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">The image I provided contains a variety of ingredients. I would like to create a recipes using these ingredients. Here are the details:
+  * I want to make a dish of any type: [salad, soup, stir-fry, curry, etc].
+  * Consider my dietary preference any of the following: [vegetarian, vegan, gluten-free, non-vegetarian etc].
+  * Please focus on using [list specific ingredients from the image if necessary].
+  Please generate a detailed recipe including ingredients, step-by-step instructions, cooking time, and nutritional information.</string>
+    <string name="image1_description">Cupcake</string>
+    <string name="image2_description">Cookies</string>
+    <string name="image3_description">Cake</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+</resources>
